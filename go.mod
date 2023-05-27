@@ -1,4 +1,4 @@
-module gitlab.com/tanna.dev/hacking/versioninfo-test
+module github.com/jamietanna/versioninfo-test
 
 go 1.20
 
